@@ -3,13 +3,13 @@
 A simple web application that allows users to check the weather of a city using OpenWeatherMap API.
 
 <h2>Table of Contents</h2>
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#features)<br>
+- [Getting Started](#getting-started)<br>
+  - [Prerequisites](#prerequisites)<br>
+  - [Installation](#installation)<br>
+- [Usage](#usage)<br>
+- [Contributing](#contributing)<br>
+- [License](#license)<br>
 
 ## Features
 
