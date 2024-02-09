@@ -7,9 +7,7 @@ A simple web application that allows users to check the weather of a city using 
 - [Getting Started](#getting-started)<br>
   - [Prerequisites](#prerequisites)<br>
   - [Installation](#installation)<br>
-- [Usage](#usage)<br>
-- [Contributing](#contributing)<br>
-- [License](#license)<br>
+
 
 ## Features
 
